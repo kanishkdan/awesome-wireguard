@@ -242,6 +242,8 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 - [muiquq/wgcfghelp](https://github.com/muqiuq/wgcfghelp) - Lightweight single binary CLI tool, roadwarrior peer management, config file generator, QR code image generator, MikroTik command generator. ![GitHub last commit](https://img.shields.io/github/last-commit/muqiuq/wgcfghelp?style=flat-square&color=informational) :green_circle:
 - [AndrianBdn/wg-cmd](https://github.com/AndrianBdn/wg-cmd) - WG Commander is a TUI for a simple WireGuard VPN setup. UI, QR Codes, Setup Wizard in the terminal.
 ![GitHub last commit](https://img.shields.io/github/last-commit/AndrianBdn/wg-cmd?style=flat-square&color=informational) :green_circle:
+- [kanishkdan/vpnonly](https://github.com/kanishkdan/vpnonly) - Route only the apps you choose through a WireGuard tunnel on macOS, using PF and a Unix group; everything else keeps its normal connection.
+![GitHub last commit](https://img.shields.io/github/last-commit/kanishkdan/vpnonly?style=flat-square&color=informational) :green_circle:
 
 #### Web
 
